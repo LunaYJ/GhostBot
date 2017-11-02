@@ -21,7 +21,7 @@ Usage
 Load the GhostBot.
 
 ```
-<script src="js/ghostbot.min.js">	
+<script src="js/ghostbot.min.js"></script>	
 ```
 
 You need a inputbox that for users inputting the keywords.
